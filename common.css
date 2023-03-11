@@ -1,0 +1,62 @@
+:root {
+  /* ***** font size ***** */
+  font-size: calc(4 * ((100vw - 320px) / 1600) + 16px);
+  --txt-xxLarge: 3em;
+  --txt-xLarge: 2em;
+  --txt-large: 1.5em;
+  --txt-regular: 1em;
+  --txt-small: 0.9em;
+  --txt-xSmall: 0.8em;
+  --txt-xxSmall: 0.6em;
+  /* ***** width ***** */
+  --width-pc: calc(860px + 10vw);
+  --width-tb: 80%;
+  --width-sp: 92%;
+  /* ***** color ***** */
+  --base-bg: rgb(228, 228, 228);
+  --light-bg: rgba(235, 235, 235, 0.9);
+  --dark-txt: rgb(68, 68, 68);
+  --light-txt: rgb(245, 245, 245);
+}
+
+/* ****************************** */
+/* Reset --prefixed-- */
+/* ****************************** */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.6;
+}
+
+button {
+  color: #333;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+img {
+  width: 100%;
+  vertical-align: middle;
+}
