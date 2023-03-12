@@ -48,6 +48,28 @@
   "id": 3163858,
   "name": "Zocca",
   "cod": 200
-}                        
+}
 
-                        
+
+https://json-generator.com/api/json/get/bQIUnAqOKW?indent=2
+[
+  '{{repeat(70)}}',
+  {
+    index: '{{index()}}',
+    observationDate: function (tags) {
+      var date = new Date();
+      var today = new Date();
+
+        date.setFullYear(2100);
+		date.setMonth(10);
+		date.setDate(1 + this.index);
+      
+      var formatday = date.getFullYear() + "_" + (date.getMonth() + 1) + "_" + date.getDate();
+      
+      
+    return formatday;
+    }
+  }
+]
+
+

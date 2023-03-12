@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link rel="stylesheet" href="./common.css">
+  <link rel="stylesheet" href="./calendar.css">
   <!-- google fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +17,7 @@
 <body>
   <div class="app-wrapper">
     <h1 class="app-title">
-      <span class="ja">47都道府県の天気予報アプリ</span>
+      <span class="ja">2100年のお天気仮想アプリ</span>
     </h1>
     <div class="location-select-wrap">
       <p>地域を選択してください</p>
@@ -26,6 +27,76 @@
         <option value="Fukushima">福島県</option>
         <option value="Okinawa">沖縄県</option>
       </select>
+      <div id="calendarWrap">
+        <div class="current-date">
+            <p>3/18(土)</p>
+          <div id="dateBtn">&gt;</div>
+        </div>
+        <div id="selectDate">
+          <div class="month">３月</div>
+          <div class="day-of-week">
+            <ul>
+              <li class="san">日</li>
+              <li>月</li>
+              <li>火</li>
+              <li>水</li>
+              <li>木</li>
+              <li>金</li>
+              <li class="sat">土</li>
+            </ul>
+          </div>
+          <div class="dates">
+            <ul>
+              <li class="week-one">
+                <p></p>
+                <p></p>
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+                <p>5</p>
+              </li>
+              <li class="week-two">
+                <p></p>
+                <p></p>
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+                <p>5</p>
+              </li>
+              <li class="week-three">
+                <p></p>
+                <p></p>
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+                <p>5</p>
+              </li>
+              <li class="week-four">
+                <p></p>
+                <p></p>
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+                <p>5</p>
+              </li>
+              <li class="week-five">
+                <p></p>
+                <p></p>
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+                <p>4</p>
+                <p>5</p>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
       <button id="btn">結果を表示
       </button>
     </div>
@@ -82,21 +153,6 @@
       margin-top: 20px;
       text-align: center;
     }
-
-    /* select {
-      -moz-appearance: none;
-      -webkit-appearance: none;
-      appearance: none;
-      border-radius: 0;
-      border: 0;
-      margin: 0;
-      padding: 0;
-      background: none transparent;
-      vertical-align: middle;
-      font-size: inherit;
-      color: inherit;
-      box-sizing: content-box;
-    } */
 
     #userLocation,
     #btn {
@@ -177,7 +233,8 @@
   </style>
 
 
-  <script type="module" src="./index.js"></script>
+  <!-- <script type="module" src="./index.js"></script> -->
+  <script src="calendar.js"></script>
   <!-- <script type="module" src="./kanto.js"></script> -->
 
   <!-- https://www.ac-illust.com/main/detail.php?id=23460744&word=%E5%A4%A9%E6%B0%97%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E9%9B%86 -->
