@@ -14,7 +14,7 @@ console.log(userLocation.value);
 const btn = document.getElementById("btn");
 const weatherResult = document.getElementById("weatherResult");
 
-const weatherDataJa = {
+const weatherDataYText = {
   "01d": "せいてん",
   "02d": "はれ",
   "03d": "はれときどきくもり",

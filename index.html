@@ -17,59 +17,62 @@
 <body>
   <div class="app-wrapper">
     <h1 class="app-title">
-      <span class="ja">2100年のお天気仮想アプリ</span>
+      <span>2100年</span>天気仮想アプリ
     </h1>
     <div class="location-select-wrap">
       <p>地域を選択してください</p>
-      <select id="userLocation" name="">
-        <option value="Tokyo">東京都</option>
-        <option value="Kanagawa">神奈川県</option>
-        <option value="Fukushima">福島県</option>
-        <option value="Okinawa">沖縄県</option>
-      </select>
-      <div id="calendarWrap">
-        <div class="current-date">
-          <p>3/18(土)</p>
-          <div id="dateBtn">&gt;</div>
+      <div id="locationWrap">
+        <div id="currentLocation">
+          <p data-location="honshu">本州</p>
         </div>
-        <div id="selectDate">
-          <div class="month">
-            <span class="prev">&lt;</span>
-            <span id="monthNam">3</span>月
-            <span class="next"> &gt;</span>
-          </div>
-          <div class="day-of-week">
-            <ul>
-              <li class="san">日</li>
-              <li>月</li>
-              <li>火</li>
-              <li>水</li>
-              <li>木</li>
-              <li>金</li>
-              <li class="sat">土</li>
-            </ul>
-          </div>
-          <div class="dates">
-            <ul>
-            </ul>
-          </div>
-
+        <div id="selectLocation">
+          <p class="otherLocation" data-location="honshu">本州</p>
+          <p class="otherLocation" data-location="hokkaido">北海道</p>
+          <p class="otherLocation" data-location="okinawa">沖縄</p>
         </div>
       </div>
-      <button id="btn">結果を表示
-      </button>
     </div>
+    <div id="calendarWrap">
+      <div id="currentDate">
+        <p>3/18(土)</p>
+      </div>
+      <div id="selectDate">
+        <div class="month">
+          <span class="prev">&lt;</span>
+          <span id="monthNam">3</span>月
+          <span class="next">&gt;</span>
+        </div>
+        <div class="day-of-week">
+          <ul>
+            <li class="san">日</li>
+            <li>月</li>
+            <li>火</li>
+            <li>水</li>
+            <li>木</li>
+            <li>金</li>
+            <li class="sat">土</li>
+          </ul>
+        </div>
+        <div class="dates">
+          <ul>
+            <!-- li script:calendar.js -->
+          </ul>
+        </div>
+      </div>
+    </div>
+    <button id="resultBtn">結果を表示</button>
+
 
     <div id="weatherResult">
       <p class="location">東京都</p>
-      <h2>今日の天気</h2>
+      <h2>2100年<br>今日の天気</h2>
       <div class="weather-icon"><img src="./img/weather-icon-10d.jpg" alt="weather-image"></div>
       <p class="weather-text">
         <span class="ja">くもり</span>
       </p>
       <div class="temp-wrap">
         <div class="temp-image">
-          <img src="./img/weather-icon-temp-nomal.png" alt="">
+          <img src="./img/weather-icon-temp-normal.png" alt="temp-image-icon">
         </div>
         <div class="temp-text">
           <div class="main-temp">気温:10℃</div>
@@ -96,7 +99,7 @@
       background-size: 100% auto;
       background-position: top;
       background-repeat: no-repeat;
-      padding: 10% 0;
+      padding: 5% 0;
     }
 
     h1 {
@@ -109,36 +112,15 @@
     }
 
     .location-select-wrap {
-      margin-top: 20px;
+      margin-top: 10px;
       text-align: center;
     }
-
-    #userLocation,
-    #btn {
-      display: block;
-      min-width: 150px;
-      width: 50%;
-      max-width: 400px;
-      margin: 0 auto;
-      padding: 10px 15px;
-      text-align: center;
-      font-weight: bold;
-      font-size: var(--txt-regular);
-    }
-
-    #btn {
-      margin: 10px auto 0;
-      border: 1px solid #333;
-      border-radius: 2px;
-      background-color: #d1ffcb;
-    }
-
 
     #weatherResult {
       position: relative;
-      margin: 30px auto;
+      margin: 15px auto;
       width: calc(200px + 12%);
-      padding: 15px 6%;
+      padding: 8px 6%;
       text-align: center;
       border: 2px solid #888888;
       border-bottom-right-radius: 25px;
@@ -159,6 +141,12 @@
 
     #weatherResult h2 {
       margin-bottom: 10px;
+      font-size: 1.5rem;
+    }
+
+    .weather-icon {
+      margin: 0 auto;
+      width: 80%;
     }
 
     .weather-text span {
@@ -193,7 +181,7 @@
 
 
   <!-- <script type="module" src="./index.js"></script> -->
-  <script src="calendar.js"></script>
+  <script type="module" src="calendar.js"></script>
   <!-- <script type="module" src="./kanto.js"></script> -->
 
   <!-- https://www.ac-illust.com/main/detail.php?id=23460744&word=%E5%A4%A9%E6%B0%97%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E9%9B%86 -->
