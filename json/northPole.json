@@ -1,0 +1,2922 @@
+[
+  {
+    "index": 0,
+    "observationDate": "2100_1_1",
+    "weather": "03d",
+    "temp": -25.4,
+    "temp_min": -40.2,
+    "temp_max": -12.9
+  },
+  {
+    "index": 1,
+    "observationDate": "2100_1_2",
+    "weather": "13d",
+    "temp": -21.2,
+    "temp_min": -21.4,
+    "temp_max": -17.3
+  },
+  {
+    "index": 2,
+    "observationDate": "2100_1_3",
+    "weather": "13d",
+    "temp": -27.1,
+    "temp_min": -30.2,
+    "temp_max": -15.3
+  },
+  {
+    "index": 3,
+    "observationDate": "2100_1_4",
+    "weather": "13d",
+    "temp": -27.4,
+    "temp_min": -25.6,
+    "temp_max": -10.4
+  },
+  {
+    "index": 4,
+    "observationDate": "2100_1_5",
+    "weather": "09d",
+    "temp": -22.9,
+    "temp_min": -35.1,
+    "temp_max": -16.9
+  },
+  {
+    "index": 5,
+    "observationDate": "2100_1_6",
+    "weather": "03d",
+    "temp": -27.2,
+    "temp_min": -43.9,
+    "temp_max": -11.1
+  },
+  {
+    "index": 6,
+    "observationDate": "2100_1_7",
+    "weather": "13d",
+    "temp": -25.4,
+    "temp_min": -36.5,
+    "temp_max": -12.5
+  },
+  {
+    "index": 7,
+    "observationDate": "2100_1_8",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -27.5,
+    "temp_max": -11.4
+  },
+  {
+    "index": 8,
+    "observationDate": "2100_1_9",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -23.4,
+    "temp_max": -15.7
+  },
+  {
+    "index": 9,
+    "observationDate": "2100_1_10",
+    "weather": "13d",
+    "temp": -24.9,
+    "temp_min": -48,
+    "temp_max": -11.3
+  },
+  {
+    "index": 10,
+    "observationDate": "2100_1_11",
+    "weather": "13d",
+    "temp": -26.3,
+    "temp_min": -20.7,
+    "temp_max": -13.3
+  },
+  {
+    "index": 11,
+    "observationDate": "2100_1_12",
+    "weather": "11d",
+    "temp": -24.7,
+    "temp_min": -36.1,
+    "temp_max": -10.2
+  },
+  {
+    "index": 12,
+    "observationDate": "2100_1_13",
+    "weather": "13d",
+    "temp": -27.8,
+    "temp_min": -21.9,
+    "temp_max": -12.7
+  },
+  {
+    "index": 13,
+    "observationDate": "2100_1_14",
+    "weather": "13d",
+    "temp": -23.7,
+    "temp_min": -27.9,
+    "temp_max": -11.3
+  },
+  {
+    "index": 14,
+    "observationDate": "2100_1_15",
+    "weather": "13d",
+    "temp": -26.1,
+    "temp_min": -29.2,
+    "temp_max": -14.7
+  },
+  {
+    "index": 15,
+    "observationDate": "2100_1_16",
+    "weather": "02d",
+    "temp": -26.6,
+    "temp_min": -46.5,
+    "temp_max": -17.9
+  },
+  {
+    "index": 16,
+    "observationDate": "2100_1_17",
+    "weather": "04d",
+    "temp": -20.4,
+    "temp_min": -19,
+    "temp_max": -13
+  },
+  {
+    "index": 17,
+    "observationDate": "2100_1_18",
+    "weather": "13d",
+    "temp": -27.7,
+    "temp_min": -39.5,
+    "temp_max": -15.5
+  },
+  {
+    "index": 18,
+    "observationDate": "2100_1_19",
+    "weather": "13d",
+    "temp": -20.3,
+    "temp_min": -47,
+    "temp_max": -10.4
+  },
+  {
+    "index": 19,
+    "observationDate": "2100_1_20",
+    "weather": "13d",
+    "temp": -20,
+    "temp_min": -34.1,
+    "temp_max": -15.1
+  },
+  {
+    "index": 20,
+    "observationDate": "2100_1_21",
+    "weather": "13d",
+    "temp": -22.9,
+    "temp_min": -48.3,
+    "temp_max": -14.1
+  },
+  {
+    "index": 21,
+    "observationDate": "2100_1_22",
+    "weather": "13d",
+    "temp": -21.1,
+    "temp_min": -38,
+    "temp_max": -15.8
+  },
+  {
+    "index": 22,
+    "observationDate": "2100_1_23",
+    "weather": "13d",
+    "temp": -21.2,
+    "temp_min": -26.3,
+    "temp_max": -11.6
+  },
+  {
+    "index": 23,
+    "observationDate": "2100_1_24",
+    "weather": "02d",
+    "temp": -20.8,
+    "temp_min": -27.1,
+    "temp_max": -15.2
+  },
+  {
+    "index": 24,
+    "observationDate": "2100_1_25",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -29.8,
+    "temp_max": -10.8
+  },
+  {
+    "index": 25,
+    "observationDate": "2100_1_26",
+    "weather": "13d",
+    "temp": -27.3,
+    "temp_min": -28.1,
+    "temp_max": -16.7
+  },
+  {
+    "index": 26,
+    "observationDate": "2100_1_27",
+    "weather": "11d",
+    "temp": -24.5,
+    "temp_min": -49.4,
+    "temp_max": -12.7
+  },
+  {
+    "index": 27,
+    "observationDate": "2100_1_28",
+    "weather": "10d",
+    "temp": -24.6,
+    "temp_min": -38.7,
+    "temp_max": -16.4
+  },
+  {
+    "index": 28,
+    "observationDate": "2100_1_29",
+    "weather": "13d",
+    "temp": -20.4,
+    "temp_min": -49.3,
+    "temp_max": -11.5
+  },
+  {
+    "index": 29,
+    "observationDate": "2100_1_30",
+    "weather": "13d",
+    "temp": -23.2,
+    "temp_min": -20.3,
+    "temp_max": -16.8
+  },
+  {
+    "index": 30,
+    "observationDate": "2100_1_31",
+    "weather": "50d",
+    "temp": -24.8,
+    "temp_min": -33.8,
+    "temp_max": -13.1
+  },
+  {
+    "index": 31,
+    "observationDate": "2100_2_1",
+    "weather": "04d",
+    "temp": -21.5,
+    "temp_min": -23.3,
+    "temp_max": -10.8
+  },
+  {
+    "index": 32,
+    "observationDate": "2100_2_2",
+    "weather": "13d",
+    "temp": -27.8,
+    "temp_min": -31.9,
+    "temp_max": -16.1
+  },
+  {
+    "index": 33,
+    "observationDate": "2100_2_3",
+    "weather": "13d",
+    "temp": -21.1,
+    "temp_min": -38.7,
+    "temp_max": -14.8
+  },
+  {
+    "index": 34,
+    "observationDate": "2100_2_4",
+    "weather": "13d",
+    "temp": -27,
+    "temp_min": -42.7,
+    "temp_max": -11
+  },
+  {
+    "index": 35,
+    "observationDate": "2100_2_5",
+    "weather": "13d",
+    "temp": -25.6,
+    "temp_min": -47.1,
+    "temp_max": -17.4
+  },
+  {
+    "index": 36,
+    "observationDate": "2100_2_6",
+    "weather": "50d",
+    "temp": -20.2,
+    "temp_min": -20.8,
+    "temp_max": -14.5
+  },
+  {
+    "index": 37,
+    "observationDate": "2100_2_7",
+    "weather": "13d",
+    "temp": -20.8,
+    "temp_min": -45,
+    "temp_max": -13.4
+  },
+  {
+    "index": 38,
+    "observationDate": "2100_2_8",
+    "weather": "11d",
+    "temp": -27.7,
+    "temp_min": -33.3,
+    "temp_max": -11.7
+  },
+  {
+    "index": 39,
+    "observationDate": "2100_2_9",
+    "weather": "13d",
+    "temp": -27.6,
+    "temp_min": -23.6,
+    "temp_max": -16.6
+  },
+  {
+    "index": 40,
+    "observationDate": "2100_2_10",
+    "weather": "13d",
+    "temp": -25.6,
+    "temp_min": -43.4,
+    "temp_max": -16.5
+  },
+  {
+    "index": 41,
+    "observationDate": "2100_2_11",
+    "weather": "09d",
+    "temp": -25.7,
+    "temp_min": -32.3,
+    "temp_max": -17.4
+  },
+  {
+    "index": 42,
+    "observationDate": "2100_2_12",
+    "weather": "13d",
+    "temp": -28,
+    "temp_min": -30.8,
+    "temp_max": -10.3
+  },
+  {
+    "index": 43,
+    "observationDate": "2100_2_13",
+    "weather": "13d",
+    "temp": -20.1,
+    "temp_min": -29,
+    "temp_max": -10.9
+  },
+  {
+    "index": 44,
+    "observationDate": "2100_2_14",
+    "weather": "13d",
+    "temp": -25.9,
+    "temp_min": -21.6,
+    "temp_max": -16.9
+  },
+  {
+    "index": 45,
+    "observationDate": "2100_2_15",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -32.9,
+    "temp_max": -14.5
+  },
+  {
+    "index": 46,
+    "observationDate": "2100_2_16",
+    "weather": "13d",
+    "temp": -26.3,
+    "temp_min": -30,
+    "temp_max": -12.8
+  },
+  {
+    "index": 47,
+    "observationDate": "2100_2_17",
+    "weather": "13d",
+    "temp": -21.6,
+    "temp_min": -30.5,
+    "temp_max": -11.3
+  },
+  {
+    "index": 48,
+    "observationDate": "2100_2_18",
+    "weather": "03d",
+    "temp": -20.7,
+    "temp_min": -29.7,
+    "temp_max": -12.2
+  },
+  {
+    "index": 49,
+    "observationDate": "2100_2_19",
+    "weather": "02d",
+    "temp": -24.7,
+    "temp_min": -33.9,
+    "temp_max": -11.5
+  },
+  {
+    "index": 50,
+    "observationDate": "2100_2_20",
+    "weather": "13d",
+    "temp": -23.9,
+    "temp_min": -35.8,
+    "temp_max": -15.4
+  },
+  {
+    "index": 51,
+    "observationDate": "2100_2_21",
+    "weather": "10d",
+    "temp": -27.6,
+    "temp_min": -38.4,
+    "temp_max": -11.7
+  },
+  {
+    "index": 52,
+    "observationDate": "2100_2_22",
+    "weather": "02d",
+    "temp": -24.9,
+    "temp_min": -32.6,
+    "temp_max": -10.5
+  },
+  {
+    "index": 53,
+    "observationDate": "2100_2_23",
+    "weather": "13d",
+    "temp": -24.9,
+    "temp_min": -19.6,
+    "temp_max": -11.3
+  },
+  {
+    "index": 54,
+    "observationDate": "2100_2_24",
+    "weather": "13d",
+    "temp": -20.8,
+    "temp_min": -20.4,
+    "temp_max": -10.3
+  },
+  {
+    "index": 55,
+    "observationDate": "2100_2_25",
+    "weather": "13d",
+    "temp": -24.4,
+    "temp_min": -35.3,
+    "temp_max": -10
+  },
+  {
+    "index": 56,
+    "observationDate": "2100_2_26",
+    "weather": "03d",
+    "temp": -24.6,
+    "temp_min": -40.3,
+    "temp_max": -16.1
+  },
+  {
+    "index": 57,
+    "observationDate": "2100_2_27",
+    "weather": "13d",
+    "temp": -24.2,
+    "temp_min": -37.9,
+    "temp_max": -10.8
+  },
+  {
+    "index": 58,
+    "observationDate": "2100_2_28",
+    "weather": "13d",
+    "temp": -27.4,
+    "temp_min": -30.8,
+    "temp_max": -16.1
+  },
+  {
+    "index": 59,
+    "observationDate": "2100_3_1",
+    "weather": "04d",
+    "temp": -20.2,
+    "temp_min": -20.1,
+    "temp_max": -10
+  },
+  {
+    "index": 60,
+    "observationDate": "2100_3_2",
+    "weather": "13d",
+    "temp": -25.7,
+    "temp_min": -39.3,
+    "temp_max": -14.5
+  },
+  {
+    "index": 61,
+    "observationDate": "2100_3_3",
+    "weather": "09d",
+    "temp": -20.1,
+    "temp_min": -21.9,
+    "temp_max": -17.6
+  },
+  {
+    "index": 62,
+    "observationDate": "2100_3_4",
+    "weather": "13d",
+    "temp": -26.6,
+    "temp_min": -28.4,
+    "temp_max": -16.6
+  },
+  {
+    "index": 63,
+    "observationDate": "2100_3_5",
+    "weather": "13d",
+    "temp": -27.6,
+    "temp_min": -44.3,
+    "temp_max": -10.3
+  },
+  {
+    "index": 64,
+    "observationDate": "2100_3_6",
+    "weather": "13d",
+    "temp": -22.7,
+    "temp_min": -47.8,
+    "temp_max": -14.7
+  },
+  {
+    "index": 65,
+    "observationDate": "2100_3_7",
+    "weather": "13d",
+    "temp": -25.1,
+    "temp_min": -30.2,
+    "temp_max": -15.3
+  },
+  {
+    "index": 66,
+    "observationDate": "2100_3_8",
+    "weather": "50d",
+    "temp": -27,
+    "temp_min": -41.5,
+    "temp_max": -15.2
+  },
+  {
+    "index": 67,
+    "observationDate": "2100_3_9",
+    "weather": "13d",
+    "temp": -20.4,
+    "temp_min": -35.2,
+    "temp_max": -17.6
+  },
+  {
+    "index": 68,
+    "observationDate": "2100_3_10",
+    "weather": "13d",
+    "temp": -22,
+    "temp_min": -39.1,
+    "temp_max": -14.1
+  },
+  {
+    "index": 69,
+    "observationDate": "2100_3_11",
+    "weather": "13d",
+    "temp": -24.4,
+    "temp_min": -41,
+    "temp_max": -15.4
+  },
+  {
+    "index": 70,
+    "observationDate": "2100_3_12",
+    "weather": "13d",
+    "temp": -27,
+    "temp_min": -50,
+    "temp_max": -15.3
+  },
+  {
+    "index": 71,
+    "observationDate": "2100_3_13",
+    "weather": "50d",
+    "temp": -27.5,
+    "temp_min": -34.8,
+    "temp_max": -15.6
+  },
+  {
+    "index": 72,
+    "observationDate": "2100_3_14",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -46.4,
+    "temp_max": -12.6
+  },
+  {
+    "index": 73,
+    "observationDate": "2100_3_15",
+    "weather": "13d",
+    "temp": -22.5,
+    "temp_min": -37,
+    "temp_max": -13.4
+  },
+  {
+    "index": 74,
+    "observationDate": "2100_3_16",
+    "weather": "13d",
+    "temp": -22.3,
+    "temp_min": -29,
+    "temp_max": -18
+  },
+  {
+    "index": 75,
+    "observationDate": "2100_3_17",
+    "weather": "13d",
+    "temp": -25.3,
+    "temp_min": -43.8,
+    "temp_max": -11.3
+  },
+  {
+    "index": 76,
+    "observationDate": "2100_3_18",
+    "weather": "13d",
+    "temp": -25.8,
+    "temp_min": -23.6,
+    "temp_max": -15.8
+  },
+  {
+    "index": 77,
+    "observationDate": "2100_3_19",
+    "weather": "02d",
+    "temp": -24.3,
+    "temp_min": -49.3,
+    "temp_max": -18
+  },
+  {
+    "index": 78,
+    "observationDate": "2100_3_20",
+    "weather": "13d",
+    "temp": -27,
+    "temp_min": -31.3,
+    "temp_max": -15
+  },
+  {
+    "index": 79,
+    "observationDate": "2100_3_21",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -39.1,
+    "temp_max": -12.5
+  },
+  {
+    "index": 80,
+    "observationDate": "2100_3_22",
+    "weather": "02d",
+    "temp": -26.3,
+    "temp_min": -22.6,
+    "temp_max": -16.6
+  },
+  {
+    "index": 81,
+    "observationDate": "2100_3_23",
+    "weather": "13d",
+    "temp": -23.9,
+    "temp_min": -31.5,
+    "temp_max": -16.1
+  },
+  {
+    "index": 82,
+    "observationDate": "2100_3_24",
+    "weather": "13d",
+    "temp": -25.5,
+    "temp_min": -32.7,
+    "temp_max": -14.5
+  },
+  {
+    "index": 83,
+    "observationDate": "2100_3_25",
+    "weather": "13d",
+    "temp": -27.7,
+    "temp_min": -41.9,
+    "temp_max": -10.1
+  },
+  {
+    "index": 84,
+    "observationDate": "2100_3_26",
+    "weather": "09d",
+    "temp": -24.4,
+    "temp_min": -34.8,
+    "temp_max": -17.1
+  },
+  {
+    "index": 85,
+    "observationDate": "2100_3_27",
+    "weather": "13d",
+    "temp": -24.6,
+    "temp_min": -45,
+    "temp_max": -16.5
+  },
+  {
+    "index": 86,
+    "observationDate": "2100_3_28",
+    "weather": "03d",
+    "temp": -25.9,
+    "temp_min": -45,
+    "temp_max": -14.4
+  },
+  {
+    "index": 87,
+    "observationDate": "2100_3_29",
+    "weather": "13d",
+    "temp": -23.6,
+    "temp_min": -23.8,
+    "temp_max": -10.4
+  },
+  {
+    "index": 88,
+    "observationDate": "2100_3_30",
+    "weather": "13d",
+    "temp": -24.4,
+    "temp_min": -24.6,
+    "temp_max": -12
+  },
+  {
+    "index": 89,
+    "observationDate": "2100_3_31",
+    "weather": "10d",
+    "temp": -21,
+    "temp_min": -19,
+    "temp_max": -15.3
+  },
+  {
+    "index": 90,
+    "observationDate": "2100_4_1",
+    "weather": "13d",
+    "temp": -27.1,
+    "temp_min": -40.5,
+    "temp_max": -13.8
+  },
+  {
+    "index": 91,
+    "observationDate": "2100_4_2",
+    "weather": "13d",
+    "temp": -22.9,
+    "temp_min": -41.5,
+    "temp_max": -11.1
+  },
+  {
+    "index": 92,
+    "observationDate": "2100_4_3",
+    "weather": "13d",
+    "temp": -21.6,
+    "temp_min": -47.2,
+    "temp_max": -16.5
+  },
+  {
+    "index": 93,
+    "observationDate": "2100_4_4",
+    "weather": "01d",
+    "temp": -27.1,
+    "temp_min": -23.8,
+    "temp_max": -12.8
+  },
+  {
+    "index": 94,
+    "observationDate": "2100_4_5",
+    "weather": "13d",
+    "temp": -22,
+    "temp_min": -35.4,
+    "temp_max": -17
+  },
+  {
+    "index": 95,
+    "observationDate": "2100_4_6",
+    "weather": "13d",
+    "temp": -27.2,
+    "temp_min": -34,
+    "temp_max": -10.1
+  },
+  {
+    "index": 96,
+    "observationDate": "2100_4_7",
+    "weather": "03d",
+    "temp": -20.7,
+    "temp_min": -20.9,
+    "temp_max": -11
+  },
+  {
+    "index": 97,
+    "observationDate": "2100_4_8",
+    "weather": "13d",
+    "temp": -20.3,
+    "temp_min": -47.4,
+    "temp_max": -14.9
+  },
+  {
+    "index": 98,
+    "observationDate": "2100_4_9",
+    "weather": "13d",
+    "temp": -26,
+    "temp_min": -24.5,
+    "temp_max": -13.7
+  },
+  {
+    "index": 99,
+    "observationDate": "2100_4_10",
+    "weather": "13d",
+    "temp": -27.4,
+    "temp_min": -21.6,
+    "temp_max": -11
+  },
+  {
+    "index": 100,
+    "observationDate": "2100_4_11",
+    "weather": "13d",
+    "temp": -26.8,
+    "temp_min": -43.6,
+    "temp_max": -12.4
+  },
+  {
+    "index": 101,
+    "observationDate": "2100_4_12",
+    "weather": "04d",
+    "temp": -22.5,
+    "temp_min": -33.1,
+    "temp_max": -15.4
+  },
+  {
+    "index": 102,
+    "observationDate": "2100_4_13",
+    "weather": "02d",
+    "temp": -24.2,
+    "temp_min": -49.2,
+    "temp_max": -17.5
+  },
+  {
+    "index": 103,
+    "observationDate": "2100_4_14",
+    "weather": "13d",
+    "temp": -22.8,
+    "temp_min": -44.3,
+    "temp_max": -15.7
+  },
+  {
+    "index": 104,
+    "observationDate": "2100_4_15",
+    "weather": "09d",
+    "temp": -26.7,
+    "temp_min": -40.1,
+    "temp_max": -15.3
+  },
+  {
+    "index": 105,
+    "observationDate": "2100_4_16",
+    "weather": "11d",
+    "temp": -22.4,
+    "temp_min": -35.2,
+    "temp_max": -17.6
+  },
+  {
+    "index": 106,
+    "observationDate": "2100_4_17",
+    "weather": "13d",
+    "temp": -25,
+    "temp_min": -45.6,
+    "temp_max": -15.9
+  },
+  {
+    "index": 107,
+    "observationDate": "2100_4_18",
+    "weather": "13d",
+    "temp": -24.4,
+    "temp_min": -38.1,
+    "temp_max": -13.9
+  },
+  {
+    "index": 108,
+    "observationDate": "2100_4_19",
+    "weather": "13d",
+    "temp": -23.7,
+    "temp_min": -34.9,
+    "temp_max": -14.9
+  },
+  {
+    "index": 109,
+    "observationDate": "2100_4_20",
+    "weather": "13d",
+    "temp": -22.4,
+    "temp_min": -25.9,
+    "temp_max": -12.9
+  },
+  {
+    "index": 110,
+    "observationDate": "2100_4_21",
+    "weather": "13d",
+    "temp": -24.6,
+    "temp_min": -26.1,
+    "temp_max": -10.4
+  },
+  {
+    "index": 111,
+    "observationDate": "2100_4_22",
+    "weather": "11d",
+    "temp": -27.2,
+    "temp_min": -41.2,
+    "temp_max": -11.5
+  },
+  {
+    "index": 112,
+    "observationDate": "2100_4_23",
+    "weather": "03d",
+    "temp": -21.1,
+    "temp_min": -45.9,
+    "temp_max": -11.5
+  },
+  {
+    "index": 113,
+    "observationDate": "2100_4_24",
+    "weather": "13d",
+    "temp": -25.9,
+    "temp_min": -28.7,
+    "temp_max": -10.4
+  },
+  {
+    "index": 114,
+    "observationDate": "2100_4_25",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -33.4,
+    "temp_max": -15.7
+  },
+  {
+    "index": 115,
+    "observationDate": "2100_4_26",
+    "weather": "13d",
+    "temp": -26.6,
+    "temp_min": -47,
+    "temp_max": -14.4
+  },
+  {
+    "index": 116,
+    "observationDate": "2100_4_27",
+    "weather": "13d",
+    "temp": -26,
+    "temp_min": -43.3,
+    "temp_max": -14
+  },
+  {
+    "index": 117,
+    "observationDate": "2100_4_28",
+    "weather": "13d",
+    "temp": -21.3,
+    "temp_min": -24.7,
+    "temp_max": -10.4
+  },
+  {
+    "index": 118,
+    "observationDate": "2100_4_29",
+    "weather": "11d",
+    "temp": -27,
+    "temp_min": -26.8,
+    "temp_max": -17.7
+  },
+  {
+    "index": 119,
+    "observationDate": "2100_4_30",
+    "weather": "01d",
+    "temp": -20.4,
+    "temp_min": -28.6,
+    "temp_max": -14.4
+  },
+  {
+    "index": 120,
+    "observationDate": "2100_5_1",
+    "weather": "13d",
+    "temp": -24.6,
+    "temp_min": -32.9,
+    "temp_max": -13.3
+  },
+  {
+    "index": 121,
+    "observationDate": "2100_5_2",
+    "weather": "03d",
+    "temp": -27.5,
+    "temp_min": -48.3,
+    "temp_max": -10.2
+  },
+  {
+    "index": 122,
+    "observationDate": "2100_5_3",
+    "weather": "02d",
+    "temp": -20.1,
+    "temp_min": -45.3,
+    "temp_max": -14.1
+  },
+  {
+    "index": 123,
+    "observationDate": "2100_5_4",
+    "weather": "02d",
+    "temp": -26.9,
+    "temp_min": -25.1,
+    "temp_max": -17
+  },
+  {
+    "index": 124,
+    "observationDate": "2100_5_5",
+    "weather": "13d",
+    "temp": -23.7,
+    "temp_min": -29.4,
+    "temp_max": -17.8
+  },
+  {
+    "index": 125,
+    "observationDate": "2100_5_6",
+    "weather": "50d",
+    "temp": -22.5,
+    "temp_min": -32.3,
+    "temp_max": -14.3
+  },
+  {
+    "index": 126,
+    "observationDate": "2100_5_7",
+    "weather": "13d",
+    "temp": -25.1,
+    "temp_min": -33.1,
+    "temp_max": -16.4
+  },
+  {
+    "index": 127,
+    "observationDate": "2100_5_8",
+    "weather": "04d",
+    "temp": -24.7,
+    "temp_min": -22.8,
+    "temp_max": -13.8
+  },
+  {
+    "index": 128,
+    "observationDate": "2100_5_9",
+    "weather": "13d",
+    "temp": -21.9,
+    "temp_min": -27.9,
+    "temp_max": -15.6
+  },
+  {
+    "index": 129,
+    "observationDate": "2100_5_10",
+    "weather": "13d",
+    "temp": -20.3,
+    "temp_min": -23.7,
+    "temp_max": -17.5
+  },
+  {
+    "index": 130,
+    "observationDate": "2100_5_11",
+    "weather": "13d",
+    "temp": -20.2,
+    "temp_min": -30,
+    "temp_max": -12.6
+  },
+  {
+    "index": 131,
+    "observationDate": "2100_5_12",
+    "weather": "13d",
+    "temp": -25.8,
+    "temp_min": -43.4,
+    "temp_max": -12.6
+  },
+  {
+    "index": 132,
+    "observationDate": "2100_5_13",
+    "weather": "13d",
+    "temp": -22.9,
+    "temp_min": -35.8,
+    "temp_max": -11.6
+  },
+  {
+    "index": 133,
+    "observationDate": "2100_5_14",
+    "weather": "01d",
+    "temp": -23.6,
+    "temp_min": -35.9,
+    "temp_max": -15.9
+  },
+  {
+    "index": 134,
+    "observationDate": "2100_5_15",
+    "weather": "13d",
+    "temp": -26.9,
+    "temp_min": -31.4,
+    "temp_max": -11.2
+  },
+  {
+    "index": 135,
+    "observationDate": "2100_5_16",
+    "weather": "13d",
+    "temp": -23.5,
+    "temp_min": -40.9,
+    "temp_max": -15.8
+  },
+  {
+    "index": 136,
+    "observationDate": "2100_5_17",
+    "weather": "09d",
+    "temp": -26,
+    "temp_min": -22.1,
+    "temp_max": -12.1
+  },
+  {
+    "index": 137,
+    "observationDate": "2100_5_18",
+    "weather": "13d",
+    "temp": -27.2,
+    "temp_min": -24.3,
+    "temp_max": -15
+  },
+  {
+    "index": 138,
+    "observationDate": "2100_5_19",
+    "weather": "13d",
+    "temp": -20.8,
+    "temp_min": -20.1,
+    "temp_max": -16
+  },
+  {
+    "index": 139,
+    "observationDate": "2100_5_20",
+    "weather": "13d",
+    "temp": -27.2,
+    "temp_min": -32.3,
+    "temp_max": -13.3
+  },
+  {
+    "index": 140,
+    "observationDate": "2100_5_21",
+    "weather": "13d",
+    "temp": -26,
+    "temp_min": -43.4,
+    "temp_max": -10.5
+  },
+  {
+    "index": 141,
+    "observationDate": "2100_5_22",
+    "weather": "11d",
+    "temp": -20,
+    "temp_min": -34.3,
+    "temp_max": -10.2
+  },
+  {
+    "index": 142,
+    "observationDate": "2100_5_23",
+    "weather": "50d",
+    "temp": -22.3,
+    "temp_min": -49.2,
+    "temp_max": -17.9
+  },
+  {
+    "index": 143,
+    "observationDate": "2100_5_24",
+    "weather": "10d",
+    "temp": -20.7,
+    "temp_min": -38.2,
+    "temp_max": -15.5
+  },
+  {
+    "index": 144,
+    "observationDate": "2100_5_25",
+    "weather": "13d",
+    "temp": -20.1,
+    "temp_min": -40.4,
+    "temp_max": -17
+  },
+  {
+    "index": 145,
+    "observationDate": "2100_5_26",
+    "weather": "13d",
+    "temp": -24.6,
+    "temp_min": -39.5,
+    "temp_max": -17.4
+  },
+  {
+    "index": 146,
+    "observationDate": "2100_5_27",
+    "weather": "02d",
+    "temp": -21.6,
+    "temp_min": -39.3,
+    "temp_max": -10.2
+  },
+  {
+    "index": 147,
+    "observationDate": "2100_5_28",
+    "weather": "13d",
+    "temp": -23.1,
+    "temp_min": -21.8,
+    "temp_max": -12
+  },
+  {
+    "index": 148,
+    "observationDate": "2100_5_29",
+    "weather": "13d",
+    "temp": -21,
+    "temp_min": -29.6,
+    "temp_max": -16
+  },
+  {
+    "index": 149,
+    "observationDate": "2100_5_30",
+    "weather": "13d",
+    "temp": -27.3,
+    "temp_min": -28.2,
+    "temp_max": -10.8
+  },
+  {
+    "index": 150,
+    "observationDate": "2100_5_31",
+    "weather": "13d",
+    "temp": -23.1,
+    "temp_min": -40.7,
+    "temp_max": -11.5
+  },
+  {
+    "index": 151,
+    "observationDate": "2100_6_1",
+    "weather": "10d",
+    "temp": -25.8,
+    "temp_min": -37.5,
+    "temp_max": -12.8
+  },
+  {
+    "index": 152,
+    "observationDate": "2100_6_2",
+    "weather": "13d",
+    "temp": -27.7,
+    "temp_min": -44.4,
+    "temp_max": -12.2
+  },
+  {
+    "index": 153,
+    "observationDate": "2100_6_3",
+    "weather": "04d",
+    "temp": -20.5,
+    "temp_min": -43.3,
+    "temp_max": -11.8
+  },
+  {
+    "index": 154,
+    "observationDate": "2100_6_4",
+    "weather": "11d",
+    "temp": -26.3,
+    "temp_min": -31.6,
+    "temp_max": -17.5
+  },
+  {
+    "index": 155,
+    "observationDate": "2100_6_5",
+    "weather": "11d",
+    "temp": -22.9,
+    "temp_min": -28.3,
+    "temp_max": -14
+  },
+  {
+    "index": 156,
+    "observationDate": "2100_6_6",
+    "weather": "13d",
+    "temp": -20.7,
+    "temp_min": -24.8,
+    "temp_max": -12.4
+  },
+  {
+    "index": 157,
+    "observationDate": "2100_6_7",
+    "weather": "13d",
+    "temp": -27.4,
+    "temp_min": -31.9,
+    "temp_max": -12.8
+  },
+  {
+    "index": 158,
+    "observationDate": "2100_6_8",
+    "weather": "10d",
+    "temp": -24.7,
+    "temp_min": -42.8,
+    "temp_max": -12.1
+  },
+  {
+    "index": 159,
+    "observationDate": "2100_6_9",
+    "weather": "13d",
+    "temp": -23.6,
+    "temp_min": -32.4,
+    "temp_max": -13
+  },
+  {
+    "index": 160,
+    "observationDate": "2100_6_10",
+    "weather": "13d",
+    "temp": -22.9,
+    "temp_min": -21.6,
+    "temp_max": -14.7
+  },
+  {
+    "index": 161,
+    "observationDate": "2100_6_11",
+    "weather": "13d",
+    "temp": -27.9,
+    "temp_min": -32.8,
+    "temp_max": -16.5
+  },
+  {
+    "index": 162,
+    "observationDate": "2100_6_12",
+    "weather": "13d",
+    "temp": -22.2,
+    "temp_min": -34,
+    "temp_max": -11.4
+  },
+  {
+    "index": 163,
+    "observationDate": "2100_6_13",
+    "weather": "13d",
+    "temp": -27.5,
+    "temp_min": -22,
+    "temp_max": -10.6
+  },
+  {
+    "index": 164,
+    "observationDate": "2100_6_14",
+    "weather": "09d",
+    "temp": -25.7,
+    "temp_min": -38.5,
+    "temp_max": -17.6
+  },
+  {
+    "index": 165,
+    "observationDate": "2100_6_15",
+    "weather": "13d",
+    "temp": -27.1,
+    "temp_min": -49.3,
+    "temp_max": -14.1
+  },
+  {
+    "index": 166,
+    "observationDate": "2100_6_16",
+    "weather": "13d",
+    "temp": -26.5,
+    "temp_min": -30.6,
+    "temp_max": -13.5
+  },
+  {
+    "index": 167,
+    "observationDate": "2100_6_17",
+    "weather": "13d",
+    "temp": -22.3,
+    "temp_min": -35.7,
+    "temp_max": -16
+  },
+  {
+    "index": 168,
+    "observationDate": "2100_6_18",
+    "weather": "13d",
+    "temp": -23.7,
+    "temp_min": -26.9,
+    "temp_max": -12.5
+  },
+  {
+    "index": 169,
+    "observationDate": "2100_6_19",
+    "weather": "11d",
+    "temp": -23,
+    "temp_min": -43.1,
+    "temp_max": -17.6
+  },
+  {
+    "index": 170,
+    "observationDate": "2100_6_20",
+    "weather": "13d",
+    "temp": -22.6,
+    "temp_min": -27.4,
+    "temp_max": -16.4
+  },
+  {
+    "index": 171,
+    "observationDate": "2100_6_21",
+    "weather": "01d",
+    "temp": -26.3,
+    "temp_min": -29.6,
+    "temp_max": -11.7
+  },
+  {
+    "index": 172,
+    "observationDate": "2100_6_22",
+    "weather": "13d",
+    "temp": -27.9,
+    "temp_min": -37.1,
+    "temp_max": -13.7
+  },
+  {
+    "index": 173,
+    "observationDate": "2100_6_23",
+    "weather": "13d",
+    "temp": -20.1,
+    "temp_min": -22.1,
+    "temp_max": -16.7
+  },
+  {
+    "index": 174,
+    "observationDate": "2100_6_24",
+    "weather": "50d",
+    "temp": -20.7,
+    "temp_min": -38,
+    "temp_max": -17
+  },
+  {
+    "index": 175,
+    "observationDate": "2100_6_25",
+    "weather": "04d",
+    "temp": -25.3,
+    "temp_min": -35.3,
+    "temp_max": -18
+  },
+  {
+    "index": 176,
+    "observationDate": "2100_6_26",
+    "weather": "03d",
+    "temp": -24.8,
+    "temp_min": -22.1,
+    "temp_max": -10.6
+  },
+  {
+    "index": 177,
+    "observationDate": "2100_6_27",
+    "weather": "13d",
+    "temp": -22.3,
+    "temp_min": -47.6,
+    "temp_max": -17.9
+  },
+  {
+    "index": 178,
+    "observationDate": "2100_6_28",
+    "weather": "13d",
+    "temp": -25.2,
+    "temp_min": -42.8,
+    "temp_max": -12.9
+  },
+  {
+    "index": 179,
+    "observationDate": "2100_6_29",
+    "weather": "13d",
+    "temp": -21.8,
+    "temp_min": -26,
+    "temp_max": -17.7
+  },
+  {
+    "index": 180,
+    "observationDate": "2100_6_30",
+    "weather": "13d",
+    "temp": -23,
+    "temp_min": -41.4,
+    "temp_max": -13.4
+  },
+  {
+    "index": 181,
+    "observationDate": "2100_7_1",
+    "weather": "13d",
+    "temp": -27,
+    "temp_min": -25.6,
+    "temp_max": -10.9
+  },
+  {
+    "index": 182,
+    "observationDate": "2100_7_2",
+    "weather": "13d",
+    "temp": -26,
+    "temp_min": -19.5,
+    "temp_max": -12.9
+  },
+  {
+    "index": 183,
+    "observationDate": "2100_7_3",
+    "weather": "09d",
+    "temp": -23.3,
+    "temp_min": -32.2,
+    "temp_max": -12.1
+  },
+  {
+    "index": 184,
+    "observationDate": "2100_7_4",
+    "weather": "01d",
+    "temp": -25.2,
+    "temp_min": -31.1,
+    "temp_max": -13.9
+  },
+  {
+    "index": 185,
+    "observationDate": "2100_7_5",
+    "weather": "13d",
+    "temp": -24.1,
+    "temp_min": -37,
+    "temp_max": -10.6
+  },
+  {
+    "index": 186,
+    "observationDate": "2100_7_6",
+    "weather": "13d",
+    "temp": -26.8,
+    "temp_min": -35.8,
+    "temp_max": -17.9
+  },
+  {
+    "index": 187,
+    "observationDate": "2100_7_7",
+    "weather": "03d",
+    "temp": -23.5,
+    "temp_min": -43.1,
+    "temp_max": -14.1
+  },
+  {
+    "index": 188,
+    "observationDate": "2100_7_8",
+    "weather": "11d",
+    "temp": -22.1,
+    "temp_min": -41.4,
+    "temp_max": -16.8
+  },
+  {
+    "index": 189,
+    "observationDate": "2100_7_9",
+    "weather": "13d",
+    "temp": -28,
+    "temp_min": -44.9,
+    "temp_max": -14
+  },
+  {
+    "index": 190,
+    "observationDate": "2100_7_10",
+    "weather": "13d",
+    "temp": -25.7,
+    "temp_min": -40.6,
+    "temp_max": -14.7
+  },
+  {
+    "index": 191,
+    "observationDate": "2100_7_11",
+    "weather": "50d",
+    "temp": -22.8,
+    "temp_min": -37.8,
+    "temp_max": -13.4
+  },
+  {
+    "index": 192,
+    "observationDate": "2100_7_12",
+    "weather": "01d",
+    "temp": -26.1,
+    "temp_min": -40.7,
+    "temp_max": -14.7
+  },
+  {
+    "index": 193,
+    "observationDate": "2100_7_13",
+    "weather": "13d",
+    "temp": -25.1,
+    "temp_min": -21.5,
+    "temp_max": -15.6
+  },
+  {
+    "index": 194,
+    "observationDate": "2100_7_14",
+    "weather": "01d",
+    "temp": -21.6,
+    "temp_min": -33.8,
+    "temp_max": -14.6
+  },
+  {
+    "index": 195,
+    "observationDate": "2100_7_15",
+    "weather": "13d",
+    "temp": -27.6,
+    "temp_min": -28.4,
+    "temp_max": -13.6
+  },
+  {
+    "index": 196,
+    "observationDate": "2100_7_16",
+    "weather": "13d",
+    "temp": -20.8,
+    "temp_min": -24.4,
+    "temp_max": -10.7
+  },
+  {
+    "index": 197,
+    "observationDate": "2100_7_17",
+    "weather": "13d",
+    "temp": -24.8,
+    "temp_min": -45,
+    "temp_max": -14.8
+  },
+  {
+    "index": 198,
+    "observationDate": "2100_7_18",
+    "weather": "13d",
+    "temp": -24.5,
+    "temp_min": -20.8,
+    "temp_max": -12.6
+  },
+  {
+    "index": 199,
+    "observationDate": "2100_7_19",
+    "weather": "09d",
+    "temp": -26.9,
+    "temp_min": -43.4,
+    "temp_max": -13.2
+  },
+  {
+    "index": 200,
+    "observationDate": "2100_7_20",
+    "weather": "13d",
+    "temp": -20.4,
+    "temp_min": -47.8,
+    "temp_max": -15.7
+  },
+  {
+    "index": 201,
+    "observationDate": "2100_7_21",
+    "weather": "13d",
+    "temp": -21.3,
+    "temp_min": -33.1,
+    "temp_max": -13.8
+  },
+  {
+    "index": 202,
+    "observationDate": "2100_7_22",
+    "weather": "13d",
+    "temp": -27.9,
+    "temp_min": -26.3,
+    "temp_max": -10.2
+  },
+  {
+    "index": 203,
+    "observationDate": "2100_7_23",
+    "weather": "09d",
+    "temp": -23.7,
+    "temp_min": -45.2,
+    "temp_max": -17.5
+  },
+  {
+    "index": 204,
+    "observationDate": "2100_7_24",
+    "weather": "13d",
+    "temp": -28,
+    "temp_min": -44.7,
+    "temp_max": -13
+  },
+  {
+    "index": 205,
+    "observationDate": "2100_7_25",
+    "weather": "13d",
+    "temp": -27.5,
+    "temp_min": -33.8,
+    "temp_max": -15.8
+  },
+  {
+    "index": 206,
+    "observationDate": "2100_7_26",
+    "weather": "10d",
+    "temp": -23.4,
+    "temp_min": -22.7,
+    "temp_max": -12.4
+  },
+  {
+    "index": 207,
+    "observationDate": "2100_7_27",
+    "weather": "13d",
+    "temp": -22.3,
+    "temp_min": -29.4,
+    "temp_max": -14.4
+  },
+  {
+    "index": 208,
+    "observationDate": "2100_7_28",
+    "weather": "09d",
+    "temp": -27.6,
+    "temp_min": -28.8,
+    "temp_max": -14.8
+  },
+  {
+    "index": 209,
+    "observationDate": "2100_7_29",
+    "weather": "13d",
+    "temp": -21.3,
+    "temp_min": -41.6,
+    "temp_max": -15.2
+  },
+  {
+    "index": 210,
+    "observationDate": "2100_7_30",
+    "weather": "13d",
+    "temp": -24.7,
+    "temp_min": -45.6,
+    "temp_max": -12.8
+  },
+  {
+    "index": 211,
+    "observationDate": "2100_7_31",
+    "weather": "13d",
+    "temp": -23.2,
+    "temp_min": -40.8,
+    "temp_max": -15
+  },
+  {
+    "index": 212,
+    "observationDate": "2100_8_1",
+    "weather": "13d",
+    "temp": -20.4,
+    "temp_min": -45.9,
+    "temp_max": -16.9
+  },
+  {
+    "index": 213,
+    "observationDate": "2100_8_2",
+    "weather": "13d",
+    "temp": -25.4,
+    "temp_min": -25.9,
+    "temp_max": -14.3
+  },
+  {
+    "index": 214,
+    "observationDate": "2100_8_3",
+    "weather": "13d",
+    "temp": -26.9,
+    "temp_min": -26.9,
+    "temp_max": -14.7
+  },
+  {
+    "index": 215,
+    "observationDate": "2100_8_4",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -41.3,
+    "temp_max": -15.3
+  },
+  {
+    "index": 216,
+    "observationDate": "2100_8_5",
+    "weather": "13d",
+    "temp": -23.1,
+    "temp_min": -29.8,
+    "temp_max": -10.6
+  },
+  {
+    "index": 217,
+    "observationDate": "2100_8_6",
+    "weather": "13d",
+    "temp": -20.3,
+    "temp_min": -40.4,
+    "temp_max": -15.1
+  },
+  {
+    "index": 218,
+    "observationDate": "2100_8_7",
+    "weather": "11d",
+    "temp": -24.2,
+    "temp_min": -28.5,
+    "temp_max": -17.7
+  },
+  {
+    "index": 219,
+    "observationDate": "2100_8_8",
+    "weather": "01d",
+    "temp": -27.6,
+    "temp_min": -45.4,
+    "temp_max": -12.4
+  },
+  {
+    "index": 220,
+    "observationDate": "2100_8_9",
+    "weather": "13d",
+    "temp": -26.4,
+    "temp_min": -31,
+    "temp_max": -16.2
+  },
+  {
+    "index": 221,
+    "observationDate": "2100_8_10",
+    "weather": "13d",
+    "temp": -26,
+    "temp_min": -49.6,
+    "temp_max": -16.8
+  },
+  {
+    "index": 222,
+    "observationDate": "2100_8_11",
+    "weather": "13d",
+    "temp": -20.2,
+    "temp_min": -25.3,
+    "temp_max": -10.4
+  },
+  {
+    "index": 223,
+    "observationDate": "2100_8_12",
+    "weather": "02d",
+    "temp": -27.9,
+    "temp_min": -19.3,
+    "temp_max": -10.3
+  },
+  {
+    "index": 224,
+    "observationDate": "2100_8_13",
+    "weather": "13d",
+    "temp": -20.1,
+    "temp_min": -40.4,
+    "temp_max": -11.7
+  },
+  {
+    "index": 225,
+    "observationDate": "2100_8_14",
+    "weather": "13d",
+    "temp": -26.7,
+    "temp_min": -31.7,
+    "temp_max": -14.1
+  },
+  {
+    "index": 226,
+    "observationDate": "2100_8_15",
+    "weather": "10d",
+    "temp": -23.6,
+    "temp_min": -38.8,
+    "temp_max": -16.1
+  },
+  {
+    "index": 227,
+    "observationDate": "2100_8_16",
+    "weather": "04d",
+    "temp": -24.8,
+    "temp_min": -31.1,
+    "temp_max": -16.5
+  },
+  {
+    "index": 228,
+    "observationDate": "2100_8_17",
+    "weather": "13d",
+    "temp": -25.4,
+    "temp_min": -27.1,
+    "temp_max": -15.1
+  },
+  {
+    "index": 229,
+    "observationDate": "2100_8_18",
+    "weather": "13d",
+    "temp": -25.9,
+    "temp_min": -20,
+    "temp_max": -11.4
+  },
+  {
+    "index": 230,
+    "observationDate": "2100_8_19",
+    "weather": "13d",
+    "temp": -23.6,
+    "temp_min": -48,
+    "temp_max": -16.2
+  },
+  {
+    "index": 231,
+    "observationDate": "2100_8_20",
+    "weather": "13d",
+    "temp": -25.7,
+    "temp_min": -23.4,
+    "temp_max": -10.5
+  },
+  {
+    "index": 232,
+    "observationDate": "2100_8_21",
+    "weather": "13d",
+    "temp": -22.9,
+    "temp_min": -40.2,
+    "temp_max": -16.2
+  },
+  {
+    "index": 233,
+    "observationDate": "2100_8_22",
+    "weather": "13d",
+    "temp": -22.6,
+    "temp_min": -49.5,
+    "temp_max": -11.2
+  },
+  {
+    "index": 234,
+    "observationDate": "2100_8_23",
+    "weather": "13d",
+    "temp": -20.3,
+    "temp_min": -23.8,
+    "temp_max": -12.9
+  },
+  {
+    "index": 235,
+    "observationDate": "2100_8_24",
+    "weather": "13d",
+    "temp": -27.6,
+    "temp_min": -30.8,
+    "temp_max": -13.1
+  },
+  {
+    "index": 236,
+    "observationDate": "2100_8_25",
+    "weather": "03d",
+    "temp": -20.9,
+    "temp_min": -32.9,
+    "temp_max": -12
+  },
+  {
+    "index": 237,
+    "observationDate": "2100_8_26",
+    "weather": "13d",
+    "temp": -22.7,
+    "temp_min": -22.4,
+    "temp_max": -16.9
+  },
+  {
+    "index": 238,
+    "observationDate": "2100_8_27",
+    "weather": "13d",
+    "temp": -27.5,
+    "temp_min": -42.9,
+    "temp_max": -14.8
+  },
+  {
+    "index": 239,
+    "observationDate": "2100_8_28",
+    "weather": "13d",
+    "temp": -26.6,
+    "temp_min": -31.8,
+    "temp_max": -15.9
+  },
+  {
+    "index": 240,
+    "observationDate": "2100_8_29",
+    "weather": "13d",
+    "temp": -20.8,
+    "temp_min": -34.8,
+    "temp_max": -14.8
+  },
+  {
+    "index": 241,
+    "observationDate": "2100_8_30",
+    "weather": "03d",
+    "temp": -27.5,
+    "temp_min": -45.3,
+    "temp_max": -10.9
+  },
+  {
+    "index": 242,
+    "observationDate": "2100_8_31",
+    "weather": "04d",
+    "temp": -28,
+    "temp_min": -40.2,
+    "temp_max": -16.8
+  },
+  {
+    "index": 243,
+    "observationDate": "2100_9_1",
+    "weather": "04d",
+    "temp": -27.3,
+    "temp_min": -36.9,
+    "temp_max": -17.9
+  },
+  {
+    "index": 244,
+    "observationDate": "2100_9_2",
+    "weather": "13d",
+    "temp": -22.4,
+    "temp_min": -34.1,
+    "temp_max": -15.6
+  },
+  {
+    "index": 245,
+    "observationDate": "2100_9_3",
+    "weather": "13d",
+    "temp": -24.3,
+    "temp_min": -25.8,
+    "temp_max": -16.4
+  },
+  {
+    "index": 246,
+    "observationDate": "2100_9_4",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -43.5,
+    "temp_max": -10.4
+  },
+  {
+    "index": 247,
+    "observationDate": "2100_9_5",
+    "weather": "13d",
+    "temp": -23.7,
+    "temp_min": -33.4,
+    "temp_max": -12.4
+  },
+  {
+    "index": 248,
+    "observationDate": "2100_9_6",
+    "weather": "04d",
+    "temp": -26.5,
+    "temp_min": -33.9,
+    "temp_max": -10.6
+  },
+  {
+    "index": 249,
+    "observationDate": "2100_9_7",
+    "weather": "01d",
+    "temp": -22.7,
+    "temp_min": -25.2,
+    "temp_max": -11
+  },
+  {
+    "index": 250,
+    "observationDate": "2100_9_8",
+    "weather": "13d",
+    "temp": -23.4,
+    "temp_min": -36.8,
+    "temp_max": -11.2
+  },
+  {
+    "index": 251,
+    "observationDate": "2100_9_9",
+    "weather": "02d",
+    "temp": -21.5,
+    "temp_min": -38.4,
+    "temp_max": -15.4
+  },
+  {
+    "index": 252,
+    "observationDate": "2100_9_10",
+    "weather": "13d",
+    "temp": -20,
+    "temp_min": -19.3,
+    "temp_max": -16
+  },
+  {
+    "index": 253,
+    "observationDate": "2100_9_11",
+    "weather": "13d",
+    "temp": -23.3,
+    "temp_min": -28.9,
+    "temp_max": -11.5
+  },
+  {
+    "index": 254,
+    "observationDate": "2100_9_12",
+    "weather": "13d",
+    "temp": -20.8,
+    "temp_min": -21.7,
+    "temp_max": -13.6
+  },
+  {
+    "index": 255,
+    "observationDate": "2100_9_13",
+    "weather": "13d",
+    "temp": -20.6,
+    "temp_min": -35.7,
+    "temp_max": -13.4
+  },
+  {
+    "index": 256,
+    "observationDate": "2100_9_14",
+    "weather": "13d",
+    "temp": -22.2,
+    "temp_min": -49.2,
+    "temp_max": -14.5
+  },
+  {
+    "index": 257,
+    "observationDate": "2100_9_15",
+    "weather": "13d",
+    "temp": -23.2,
+    "temp_min": -22.7,
+    "temp_max": -12.9
+  },
+  {
+    "index": 258,
+    "observationDate": "2100_9_16",
+    "weather": "13d",
+    "temp": -23.9,
+    "temp_min": -32.7,
+    "temp_max": -12.3
+  },
+  {
+    "index": 259,
+    "observationDate": "2100_9_17",
+    "weather": "13d",
+    "temp": -27.6,
+    "temp_min": -37.7,
+    "temp_max": -10
+  },
+  {
+    "index": 260,
+    "observationDate": "2100_9_18",
+    "weather": "03d",
+    "temp": -24.6,
+    "temp_min": -20.5,
+    "temp_max": -10.3
+  },
+  {
+    "index": 261,
+    "observationDate": "2100_9_19",
+    "weather": "11d",
+    "temp": -20.1,
+    "temp_min": -37.2,
+    "temp_max": -12.8
+  },
+  {
+    "index": 262,
+    "observationDate": "2100_9_20",
+    "weather": "04d",
+    "temp": -22.5,
+    "temp_min": -21.9,
+    "temp_max": -15.2
+  },
+  {
+    "index": 263,
+    "observationDate": "2100_9_21",
+    "weather": "13d",
+    "temp": -20.1,
+    "temp_min": -20.3,
+    "temp_max": -15.4
+  },
+  {
+    "index": 264,
+    "observationDate": "2100_9_22",
+    "weather": "13d",
+    "temp": -24.6,
+    "temp_min": -35.3,
+    "temp_max": -13.1
+  },
+  {
+    "index": 265,
+    "observationDate": "2100_9_23",
+    "weather": "13d",
+    "temp": -24.4,
+    "temp_min": -31.7,
+    "temp_max": -10.9
+  },
+  {
+    "index": 266,
+    "observationDate": "2100_9_24",
+    "weather": "01d",
+    "temp": -24.8,
+    "temp_min": -20.9,
+    "temp_max": -13.3
+  },
+  {
+    "index": 267,
+    "observationDate": "2100_9_25",
+    "weather": "13d",
+    "temp": -21,
+    "temp_min": -38.3,
+    "temp_max": -16.7
+  },
+  {
+    "index": 268,
+    "observationDate": "2100_9_26",
+    "weather": "13d",
+    "temp": -25.9,
+    "temp_min": -42.4,
+    "temp_max": -12.2
+  },
+  {
+    "index": 269,
+    "observationDate": "2100_9_27",
+    "weather": "04d",
+    "temp": -26.6,
+    "temp_min": -33.5,
+    "temp_max": -11.8
+  },
+  {
+    "index": 270,
+    "observationDate": "2100_9_28",
+    "weather": "13d",
+    "temp": -22.8,
+    "temp_min": -20.5,
+    "temp_max": -10.1
+  },
+  {
+    "index": 271,
+    "observationDate": "2100_9_29",
+    "weather": "13d",
+    "temp": -24.8,
+    "temp_min": -42.9,
+    "temp_max": -14.8
+  },
+  {
+    "index": 272,
+    "observationDate": "2100_9_30",
+    "weather": "13d",
+    "temp": -20.2,
+    "temp_min": -31,
+    "temp_max": -17.4
+  },
+  {
+    "index": 273,
+    "observationDate": "2100_10_1",
+    "weather": "13d",
+    "temp": -26.8,
+    "temp_min": -32.4,
+    "temp_max": -10.7
+  },
+  {
+    "index": 274,
+    "observationDate": "2100_10_2",
+    "weather": "13d",
+    "temp": -25.1,
+    "temp_min": -33.5,
+    "temp_max": -14
+  },
+  {
+    "index": 275,
+    "observationDate": "2100_10_3",
+    "weather": "01d",
+    "temp": -23.2,
+    "temp_min": -28.3,
+    "temp_max": -11.9
+  },
+  {
+    "index": 276,
+    "observationDate": "2100_10_4",
+    "weather": "03d",
+    "temp": -26.8,
+    "temp_min": -43.4,
+    "temp_max": -18
+  },
+  {
+    "index": 277,
+    "observationDate": "2100_10_5",
+    "weather": "13d",
+    "temp": -26.9,
+    "temp_min": -42.1,
+    "temp_max": -16.6
+  },
+  {
+    "index": 278,
+    "observationDate": "2100_10_6",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -47,
+    "temp_max": -14.6
+  },
+  {
+    "index": 279,
+    "observationDate": "2100_10_7",
+    "weather": "13d",
+    "temp": -23.5,
+    "temp_min": -27.7,
+    "temp_max": -16.1
+  },
+  {
+    "index": 280,
+    "observationDate": "2100_10_8",
+    "weather": "13d",
+    "temp": -26.7,
+    "temp_min": -24.2,
+    "temp_max": -14.6
+  },
+  {
+    "index": 281,
+    "observationDate": "2100_10_9",
+    "weather": "13d",
+    "temp": -27.6,
+    "temp_min": -31.7,
+    "temp_max": -15
+  },
+  {
+    "index": 282,
+    "observationDate": "2100_10_10",
+    "weather": "03d",
+    "temp": -23,
+    "temp_min": -32.1,
+    "temp_max": -16.4
+  },
+  {
+    "index": 283,
+    "observationDate": "2100_10_11",
+    "weather": "13d",
+    "temp": -20.3,
+    "temp_min": -34.8,
+    "temp_max": -17.5
+  },
+  {
+    "index": 284,
+    "observationDate": "2100_10_12",
+    "weather": "13d",
+    "temp": -24.3,
+    "temp_min": -26.3,
+    "temp_max": -11
+  },
+  {
+    "index": 285,
+    "observationDate": "2100_10_13",
+    "weather": "13d",
+    "temp": -25.7,
+    "temp_min": -32,
+    "temp_max": -10.8
+  },
+  {
+    "index": 286,
+    "observationDate": "2100_10_14",
+    "weather": "13d",
+    "temp": -20.4,
+    "temp_min": -49.9,
+    "temp_max": -18
+  },
+  {
+    "index": 287,
+    "observationDate": "2100_10_15",
+    "weather": "13d",
+    "temp": -23.1,
+    "temp_min": -39,
+    "temp_max": -16
+  },
+  {
+    "index": 288,
+    "observationDate": "2100_10_16",
+    "weather": "13d",
+    "temp": -20.9,
+    "temp_min": -33.3,
+    "temp_max": -11.5
+  },
+  {
+    "index": 289,
+    "observationDate": "2100_10_17",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -20.4,
+    "temp_max": -12.7
+  },
+  {
+    "index": 290,
+    "observationDate": "2100_10_18",
+    "weather": "10d",
+    "temp": -24.6,
+    "temp_min": -25.9,
+    "temp_max": -11.3
+  },
+  {
+    "index": 291,
+    "observationDate": "2100_10_19",
+    "weather": "13d",
+    "temp": -23.1,
+    "temp_min": -34.9,
+    "temp_max": -10.3
+  },
+  {
+    "index": 292,
+    "observationDate": "2100_10_20",
+    "weather": "02d",
+    "temp": -21.1,
+    "temp_min": -40.9,
+    "temp_max": -10.8
+  },
+  {
+    "index": 293,
+    "observationDate": "2100_10_21",
+    "weather": "10d",
+    "temp": -20.4,
+    "temp_min": -29,
+    "temp_max": -16.8
+  },
+  {
+    "index": 294,
+    "observationDate": "2100_10_22",
+    "weather": "13d",
+    "temp": -20.9,
+    "temp_min": -32.9,
+    "temp_max": -13.5
+  },
+  {
+    "index": 295,
+    "observationDate": "2100_10_23",
+    "weather": "13d",
+    "temp": -23.3,
+    "temp_min": -47.1,
+    "temp_max": -14.3
+  },
+  {
+    "index": 296,
+    "observationDate": "2100_10_24",
+    "weather": "13d",
+    "temp": -21.8,
+    "temp_min": -25.6,
+    "temp_max": -15.3
+  },
+  {
+    "index": 297,
+    "observationDate": "2100_10_25",
+    "weather": "13d",
+    "temp": -22.4,
+    "temp_min": -34.5,
+    "temp_max": -13.5
+  },
+  {
+    "index": 298,
+    "observationDate": "2100_10_26",
+    "weather": "13d",
+    "temp": -22,
+    "temp_min": -34.4,
+    "temp_max": -17.3
+  },
+  {
+    "index": 299,
+    "observationDate": "2100_10_27",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -29.3,
+    "temp_max": -11.5
+  },
+  {
+    "index": 300,
+    "observationDate": "2100_10_28",
+    "weather": "13d",
+    "temp": -21.7,
+    "temp_min": -27.1,
+    "temp_max": -10.9
+  },
+  {
+    "index": 301,
+    "observationDate": "2100_10_29",
+    "weather": "03d",
+    "temp": -21.9,
+    "temp_min": -34.4,
+    "temp_max": -15.1
+  },
+  {
+    "index": 302,
+    "observationDate": "2100_10_30",
+    "weather": "10d",
+    "temp": -26.4,
+    "temp_min": -33.8,
+    "temp_max": -13.5
+  },
+  {
+    "index": 303,
+    "observationDate": "2100_10_31",
+    "weather": "09d",
+    "temp": -26.9,
+    "temp_min": -39.8,
+    "temp_max": -12
+  },
+  {
+    "index": 304,
+    "observationDate": "2100_11_1",
+    "weather": "10d",
+    "temp": -24.2,
+    "temp_min": -27,
+    "temp_max": -16.9
+  },
+  {
+    "index": 305,
+    "observationDate": "2100_11_2",
+    "weather": "02d",
+    "temp": -25,
+    "temp_min": -40,
+    "temp_max": -15.2
+  },
+  {
+    "index": 306,
+    "observationDate": "2100_11_3",
+    "weather": "10d",
+    "temp": -26.9,
+    "temp_min": -45.7,
+    "temp_max": -16.8
+  },
+  {
+    "index": 307,
+    "observationDate": "2100_11_4",
+    "weather": "11d",
+    "temp": -26.1,
+    "temp_min": -32,
+    "temp_max": -15.3
+  },
+  {
+    "index": 308,
+    "observationDate": "2100_11_5",
+    "weather": "02d",
+    "temp": -21.3,
+    "temp_min": -26.8,
+    "temp_max": -17.9
+  },
+  {
+    "index": 309,
+    "observationDate": "2100_11_6",
+    "weather": "13d",
+    "temp": -26.8,
+    "temp_min": -32.2,
+    "temp_max": -10
+  },
+  {
+    "index": 310,
+    "observationDate": "2100_11_7",
+    "weather": "13d",
+    "temp": -20.5,
+    "temp_min": -41.6,
+    "temp_max": -12.8
+  },
+  {
+    "index": 311,
+    "observationDate": "2100_11_8",
+    "weather": "13d",
+    "temp": -23.1,
+    "temp_min": -48.6,
+    "temp_max": -18
+  },
+  {
+    "index": 312,
+    "observationDate": "2100_11_9",
+    "weather": "13d",
+    "temp": -26.3,
+    "temp_min": -42,
+    "temp_max": -16.7
+  },
+  {
+    "index": 313,
+    "observationDate": "2100_11_10",
+    "weather": "04d",
+    "temp": -25.4,
+    "temp_min": -34.3,
+    "temp_max": -10.2
+  },
+  {
+    "index": 314,
+    "observationDate": "2100_11_11",
+    "weather": "10d",
+    "temp": -21.4,
+    "temp_min": -44.2,
+    "temp_max": -15.7
+  },
+  {
+    "index": 315,
+    "observationDate": "2100_11_12",
+    "weather": "03d",
+    "temp": -22.7,
+    "temp_min": -31.1,
+    "temp_max": -13.2
+  },
+  {
+    "index": 316,
+    "observationDate": "2100_11_13",
+    "weather": "09d",
+    "temp": -27.1,
+    "temp_min": -38.2,
+    "temp_max": -16.6
+  },
+  {
+    "index": 317,
+    "observationDate": "2100_11_14",
+    "weather": "13d",
+    "temp": -25.8,
+    "temp_min": -30.6,
+    "temp_max": -14.1
+  },
+  {
+    "index": 318,
+    "observationDate": "2100_11_15",
+    "weather": "13d",
+    "temp": -26.2,
+    "temp_min": -38.2,
+    "temp_max": -11.5
+  },
+  {
+    "index": 319,
+    "observationDate": "2100_11_16",
+    "weather": "04d",
+    "temp": -23.8,
+    "temp_min": -27.6,
+    "temp_max": -16.1
+  },
+  {
+    "index": 320,
+    "observationDate": "2100_11_17",
+    "weather": "50d",
+    "temp": -26,
+    "temp_min": -36.7,
+    "temp_max": -10
+  },
+  {
+    "index": 321,
+    "observationDate": "2100_11_18",
+    "weather": "02d",
+    "temp": -27.7,
+    "temp_min": -36.3,
+    "temp_max": -15.3
+  },
+  {
+    "index": 322,
+    "observationDate": "2100_11_19",
+    "weather": "13d",
+    "temp": -27.7,
+    "temp_min": -32.4,
+    "temp_max": -15.9
+  },
+  {
+    "index": 323,
+    "observationDate": "2100_11_20",
+    "weather": "13d",
+    "temp": -26.6,
+    "temp_min": -36,
+    "temp_max": -15.7
+  },
+  {
+    "index": 324,
+    "observationDate": "2100_11_21",
+    "weather": "13d",
+    "temp": -23.4,
+    "temp_min": -40.9,
+    "temp_max": -17.7
+  },
+  {
+    "index": 325,
+    "observationDate": "2100_11_22",
+    "weather": "11d",
+    "temp": -27.9,
+    "temp_min": -27.6,
+    "temp_max": -14.8
+  },
+  {
+    "index": 326,
+    "observationDate": "2100_11_23",
+    "weather": "11d",
+    "temp": -25.8,
+    "temp_min": -47.5,
+    "temp_max": -13.3
+  },
+  {
+    "index": 327,
+    "observationDate": "2100_11_24",
+    "weather": "11d",
+    "temp": -22.9,
+    "temp_min": -41.7,
+    "temp_max": -14
+  },
+  {
+    "index": 328,
+    "observationDate": "2100_11_25",
+    "weather": "09d",
+    "temp": -27.4,
+    "temp_min": -19,
+    "temp_max": -14.8
+  },
+  {
+    "index": 329,
+    "observationDate": "2100_11_26",
+    "weather": "13d",
+    "temp": -22.2,
+    "temp_min": -20.4,
+    "temp_max": -12.6
+  },
+  {
+    "index": 330,
+    "observationDate": "2100_11_27",
+    "weather": "13d",
+    "temp": -23.2,
+    "temp_min": -41.2,
+    "temp_max": -10.5
+  },
+  {
+    "index": 331,
+    "observationDate": "2100_11_28",
+    "weather": "10d",
+    "temp": -22.7,
+    "temp_min": -48.5,
+    "temp_max": -13.3
+  },
+  {
+    "index": 332,
+    "observationDate": "2100_11_29",
+    "weather": "13d",
+    "temp": -22.6,
+    "temp_min": -19.7,
+    "temp_max": -17.7
+  },
+  {
+    "index": 333,
+    "observationDate": "2100_11_30",
+    "weather": "13d",
+    "temp": -21.3,
+    "temp_min": -37.3,
+    "temp_max": -16.2
+  },
+  {
+    "index": 334,
+    "observationDate": "2100_12_1",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -45.9,
+    "temp_max": -10.5
+  },
+  {
+    "index": 335,
+    "observationDate": "2100_12_2",
+    "weather": "13d",
+    "temp": -27.9,
+    "temp_min": -41.8,
+    "temp_max": -12.4
+  },
+  {
+    "index": 336,
+    "observationDate": "2100_12_3",
+    "weather": "50d",
+    "temp": -22.3,
+    "temp_min": -30,
+    "temp_max": -15.8
+  },
+  {
+    "index": 337,
+    "observationDate": "2100_12_4",
+    "weather": "13d",
+    "temp": -22.1,
+    "temp_min": -25.2,
+    "temp_max": -15.2
+  },
+  {
+    "index": 338,
+    "observationDate": "2100_12_5",
+    "weather": "13d",
+    "temp": -23.9,
+    "temp_min": -27.6,
+    "temp_max": -16.8
+  },
+  {
+    "index": 339,
+    "observationDate": "2100_12_6",
+    "weather": "13d",
+    "temp": -26.1,
+    "temp_min": -39.3,
+    "temp_max": -10.5
+  },
+  {
+    "index": 340,
+    "observationDate": "2100_12_7",
+    "weather": "13d",
+    "temp": -23.7,
+    "temp_min": -45.7,
+    "temp_max": -16.7
+  },
+  {
+    "index": 341,
+    "observationDate": "2100_12_8",
+    "weather": "13d",
+    "temp": -21.1,
+    "temp_min": -36.8,
+    "temp_max": -11.1
+  },
+  {
+    "index": 342,
+    "observationDate": "2100_12_9",
+    "weather": "13d",
+    "temp": -20.6,
+    "temp_min": -39.6,
+    "temp_max": -16.9
+  },
+  {
+    "index": 343,
+    "observationDate": "2100_12_10",
+    "weather": "03d",
+    "temp": -25.8,
+    "temp_min": -28.6,
+    "temp_max": -12.7
+  },
+  {
+    "index": 344,
+    "observationDate": "2100_12_11",
+    "weather": "13d",
+    "temp": -20.9,
+    "temp_min": -36.9,
+    "temp_max": -11.9
+  },
+  {
+    "index": 345,
+    "observationDate": "2100_12_12",
+    "weather": "13d",
+    "temp": -27.7,
+    "temp_min": -45.5,
+    "temp_max": -14.4
+  },
+  {
+    "index": 346,
+    "observationDate": "2100_12_13",
+    "weather": "01d",
+    "temp": -21.8,
+    "temp_min": -28.4,
+    "temp_max": -12.7
+  },
+  {
+    "index": 347,
+    "observationDate": "2100_12_14",
+    "weather": "10d",
+    "temp": -27.1,
+    "temp_min": -40.8,
+    "temp_max": -16.9
+  },
+  {
+    "index": 348,
+    "observationDate": "2100_12_15",
+    "weather": "13d",
+    "temp": -23.4,
+    "temp_min": -24,
+    "temp_max": -11
+  },
+  {
+    "index": 349,
+    "observationDate": "2100_12_16",
+    "weather": "10d",
+    "temp": -20.8,
+    "temp_min": -48,
+    "temp_max": -17.4
+  },
+  {
+    "index": 350,
+    "observationDate": "2100_12_17",
+    "weather": "13d",
+    "temp": -22.7,
+    "temp_min": -34.9,
+    "temp_max": -10.9
+  },
+  {
+    "index": 351,
+    "observationDate": "2100_12_18",
+    "weather": "13d",
+    "temp": -23.5,
+    "temp_min": -45.4,
+    "temp_max": -14.7
+  },
+  {
+    "index": 352,
+    "observationDate": "2100_12_19",
+    "weather": "13d",
+    "temp": -24.5,
+    "temp_min": -46.5,
+    "temp_max": -12.1
+  },
+  {
+    "index": 353,
+    "observationDate": "2100_12_20",
+    "weather": "13d",
+    "temp": -22.9,
+    "temp_min": -29.6,
+    "temp_max": -11.2
+  },
+  {
+    "index": 354,
+    "observationDate": "2100_12_21",
+    "weather": "11d",
+    "temp": -26.3,
+    "temp_min": -34.4,
+    "temp_max": -17
+  },
+  {
+    "index": 355,
+    "observationDate": "2100_12_22",
+    "weather": "13d",
+    "temp": -20.9,
+    "temp_min": -19.9,
+    "temp_max": -16
+  },
+  {
+    "index": 356,
+    "observationDate": "2100_12_23",
+    "weather": "13d",
+    "temp": -27.8,
+    "temp_min": -30.9,
+    "temp_max": -11.9
+  },
+  {
+    "index": 357,
+    "observationDate": "2100_12_24",
+    "weather": "10d",
+    "temp": -20.9,
+    "temp_min": -30.1,
+    "temp_max": -13
+  },
+  {
+    "index": 358,
+    "observationDate": "2100_12_25",
+    "weather": "13d",
+    "temp": -25.5,
+    "temp_min": -37.9,
+    "temp_max": -15.7
+  },
+  {
+    "index": 359,
+    "observationDate": "2100_12_26",
+    "weather": "13d",
+    "temp": -23.9,
+    "temp_min": -42.4,
+    "temp_max": -12.2
+  },
+  {
+    "index": 360,
+    "observationDate": "2100_12_27",
+    "weather": "11d",
+    "temp": -26.1,
+    "temp_min": -40.7,
+    "temp_max": -15
+  },
+  {
+    "index": 361,
+    "observationDate": "2100_12_28",
+    "weather": "13d",
+    "temp": -20.2,
+    "temp_min": -44,
+    "temp_max": -10.5
+  },
+  {
+    "index": 362,
+    "observationDate": "2100_12_29",
+    "weather": "11d",
+    "temp": -24.8,
+    "temp_min": -27.2,
+    "temp_max": -16
+  },
+  {
+    "index": 363,
+    "observationDate": "2100_12_30",
+    "weather": "13d",
+    "temp": -21.9,
+    "temp_min": -34.8,
+    "temp_max": -14.3
+  },
+  {
+    "index": 364,
+    "observationDate": "2100_12_31",
+    "weather": "13d",
+    "temp": -21.7,
+    "temp_min": -49,
+    "temp_max": -16.6
+  }
+]

@@ -1,6 +1,4 @@
 "use strict";
-import { honshu, hokkaido, okinawa } from "./weatherData.js";
-
 //
 // *************** ロケーション要素の取得 ***************
 const locationWrap = document.getElementById("locationWrap");
@@ -18,7 +16,7 @@ const nextMonth = document.querySelector(".next");
 //
 // *************** 日付情報の取得 ***************
 const dt = new Date();
-dt.setFullYear(2023);
+dt.setFullYear(2100);
 let year = dt.getFullYear();
 let month = dt.getMonth();
 let date = dt.getDate();
@@ -37,7 +35,7 @@ const resultBtn = document.getElementById("resultBtn");
 
 let userLocation;
 let userDate;
-const weatherDataYText = {
+const weatherDataText = {
   "01d": "せいてん",
   "02d": "はれ",
   "03d": "はれときどきくもり",
@@ -48,10 +46,17 @@ const weatherDataYText = {
   "13d": "ゆき",
   "50d": "きり",
 };
+
 //
 // *************** レンダリング処理 ***************
+async function callJsonData() {
+  getUserData();
+  const res = await fetch(`json/${userLocation.dataset.location}.json`);
+  const users = await res.json();
+  renderWeather(users);
+}
 render();
-renderWeather();
+callJsonData();
 
 //
 // *************** イベントハンドラー ***************
@@ -85,7 +90,8 @@ nextMonth.addEventListener("click", function () {
 });
 
 resultBtn.addEventListener("click", function () {
-  renderWeather();
+  //結果表示ボタンを押したときの処理
+  callJsonData();
   selectLocation.style.height = 0;
   selectDate.style.height = 0;
   locationWrap.classList.remove("active");
@@ -122,56 +128,44 @@ function render() {
   }
 }
 
-function renderWeather() {
-  getUserData();
-  const WeatherArr = [honshu, hokkaido, okinawa];
-  let locationObj = userLocation.dataset.location;
-  let arrNum;
+function renderWeather(users) {
+  for (let i = 0; i < users.length; i++) {
+    const { observationDate, weather, temp, temp_min, temp_max } = users[i];
 
-  for (let i = 0; i < WeatherArr.length; i++) {
-    if (locationObj === "honshu") {
-      arrNum = 0;
-    } else if (locationObj === "hokkaido") {
-      arrNum = 1;
-    } else if (locationObj === "okinawa") {
-      arrNum = 2;
+    let tempIcon;
+    if (temp < 4) {
+      tempIcon = "cold";
+    } else if (temp < 30) {
+      tempIcon = "normal";
+    } else {
+      tempIcon = "hot";
     }
-  }
 
-  let currentWeatherArr = WeatherArr[arrNum][month][date - 1];
-  let weatherId = currentWeatherArr.weather;
-
-  let tempIcon;
-  if (currentWeatherArr.temp < 4) {
-    tempIcon = "cold";
-  } else if (currentWeatherArr.temp < 30) {
-    tempIcon = "normal";
-  } else {
-    tempIcon = "hot";
-  }
-
-  weatherResult.innerHTML = `
+    if (userDate.dataset.date === observationDate) {
+      weatherResult.innerHTML = `
       <p class="location">${userLocation.innerHTML}</p>
       <h2>${year}年<br>${userDate.innerHTML}の天気</h2>
       <div class="weather-icon">
-          <img src="./img/weather-icon-${weatherId}.jpg" alt="weather-image">
+          <img src="./img/weather-icon-${weather}.jpg" alt="weather-image">
       </div>
       <p class="weather-text">
-          <span class="ja">${weatherDataYText[weatherId]}</span>
+          <span class="ja">${weatherDataText[weather]}</span>
       </p>
       <div class="temp-wrap">
           <div class="temp-image">
               <img src="./img/weather-icon-temp-${tempIcon}.png" alt="temp-image-icon">
           </div>
           <div class="temp-text">
-              <div class="main-temp">気温:${currentWeatherArr.temp}℃</div>
+              <div class="main-temp">気温:${temp}℃</div>
               <div class="min-max-temp">
-                  <span class="min-temp">最低気温:${currentWeatherArr.temp_min}℃</span>
-                  <span class="max-temp">最高気温:${currentWeatherArr.temp_max}℃</span>
+                  <span class="min-temp">最低気温:${temp_min}℃</span>
+                  <span class="max-temp">最高気温:${temp_max}℃</span>
               </div>
           </div>
       </div>
   `;
+    }
+  }
 }
 
 function getUserData() {
