@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="./common.css">
-  <link rel="stylesheet" href="./calendar.css">
+  <title>Fake weather</title>
+  <link rel="stylesheet" href="./css/common.css">
+  <link rel="stylesheet" href="./css/weather.css">
   <!-- google fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,12 +23,12 @@
       <p>地域を選択してください</p>
       <div id="locationWrap">
         <div id="currentLocation">
-          <p data-location="honshu">本州</p>
+          <p data-location="japan">日本</p>
         </div>
         <div id="selectLocation">
-          <p class="otherLocation" data-location="honshu">本州</p>
-          <p class="otherLocation" data-location="hokkaido">北海道</p>
-          <p class="otherLocation" data-location="okinawa">沖縄</p>
+          <p class="otherLocation" data-location="japan">日本</p>
+          <p class="otherLocation" data-location="northPole">北極</p>
+          <p class="otherLocation" data-location="tropical">常夏の島</p>
         </div>
       </div>
     </div>
@@ -62,7 +62,6 @@
     </div>
     <button id="resultBtn">結果を表示</button>
 
-
     <div id="weatherResult">
       <p class="location">東京都</p>
       <h2>2100年<br>今日の天気</h2>
@@ -83,108 +82,8 @@
         </div>
       </div>
     </div>
-
   </div>
-
-  <style>
-    .app-wrapper,
-    .app-wrapper select,
-    .app-wrapper button {
-      font-family: 'Hachi Maru Pop', cursive;
-      color: #444;
-    }
-
-    .app-wrapper {
-      background-image: url(./img/weather-icon-bg.png);
-      background-size: 100% auto;
-      background-position: top;
-      background-repeat: no-repeat;
-      padding: 5% 0;
-    }
-
-    h1 {
-      font-size: var(--txt-large);
-      text-align: center;
-    }
-
-    h1.app-title span {
-      display: block;
-    }
-
-    .location-select-wrap {
-      margin-top: 10px;
-      text-align: center;
-    }
-
-    #weatherResult {
-      position: relative;
-      margin: 15px auto;
-      width: calc(200px + 12%);
-      padding: 8px 6%;
-      text-align: center;
-      border: 2px solid #888888;
-      border-bottom-right-radius: 25px;
-    }
-
-    #weatherResult::before {
-      position: absolute;
-      top: 8px;
-      left: 10px;
-      content: "";
-      display: block;
-      width: 100%;
-      height: 100%;
-      background-color: #D3EDFB;
-      border-bottom-right-radius: 25px;
-      z-index: -1;
-    }
-
-    #weatherResult h2 {
-      margin-bottom: 10px;
-      font-size: 1.5rem;
-    }
-
-    .weather-icon {
-      margin: 0 auto;
-      width: 80%;
-    }
-
-    .weather-text span {
-      display: block;
-    }
-
-    .weather-text span.ja {
-      font-weight: bold;
-      padding: 10px;
-    }
-
-    .temp-wrap {
-      display: flex;
-      flex-wrap: wrap;
-    }
-
-    .temp-image {
-      width: 35%;
-    }
-
-    .temp-text {
-      width: calc(65% - 15px);
-      text-align-last: left;
-      margin-left: 15px;
-    }
-
-    .min-max-temp span {
-      display: block;
-      font-size: var(--txt-xSmall);
-    }
-  </style>
-
-
-  <!-- <script type="module" src="./index.js"></script> -->
-  <script type="module" src="calendar.js"></script>
-  <!-- <script type="module" src="./kanto.js"></script> -->
-
-  <!-- https://www.ac-illust.com/main/detail.php?id=23460744&word=%E5%A4%A9%E6%B0%97%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E9%9B%86 -->
+  <script type="module" src="./js/weather.js"></script>
 </body>
 
 </html>

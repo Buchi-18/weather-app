@@ -1,0 +1,226 @@
+body,
+#selectLocation {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+body::-webkit-scrollbar,
+#selectLocation::-webkit-scrollbar {
+  display: none;
+}
+
+h1 {
+  font-size: var(--txt-large);
+  text-align: center;
+}
+
+h1.app-title span {
+  display: block;
+}
+
+.app-wrapper,
+.app-wrapper select,
+.app-wrapper button {
+  font-family: 'Hachi Maru Pop', cursive;
+  color: #444;
+}
+
+.app-wrapper {
+  background-image: url(../img/weather-icon-bg.png);
+  background-size: 100% auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  padding: 5% 0;
+}
+
+/* ************************* */
+/* select area */
+/* ************************* */
+#locationWrap,
+#calendarWrap {
+  text-align: center;
+  min-width: 240px;
+  width: 50%;
+  max-width: 400px;
+  margin: 10px auto 0;
+  border: 1px solid #333;
+  border-radius: 2px;
+}
+
+.location-select-wrap {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#currentLocation,
+#currentDate {
+  position: relative;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+#currentLocation::before,
+#currentDate::before {
+  position: absolute;
+  top: 11.5px;
+  right: 6px;
+  content: "\03e";
+  display: block;
+  transform: rotate(90deg);
+}
+
+#locationWrap #selectLocation p {
+  margin-bottom: 10px;
+}
+
+#locationWrap #selectLocation,
+#calendarWrap #selectDate {
+  position: relative;
+  height: 0;
+  overflow-y: auto;
+  transition: height 0.3s;
+}
+
+#calendarWrap.active #selectDate {
+  height: auto;
+}
+
+#selectLocation::before,
+#selectDate::before {
+  content: "";
+  display: block;
+  width: 80%;
+  height: 1px;
+  background-color: #999;
+  margin: 10px auto;
+}
+
+#currentLocation:hover,
+#currentDate:hover,
+#resultBtn:hover {
+  opacity: 0.7;
+}
+
+#selectLocation p:hover,
+#selectDate .dates li:hover {
+  cursor: pointer;
+  background-color: #d1ffcb;
+}
+
+.day-of-week ul,
+.dates ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 5% 5% 5%;
+}
+
+.day-of-week ul li,
+.dates ul li {
+  width: calc(100% / 7);
+}
+
+#resultBtn {
+  display: block;
+  min-width: 240px;
+  width: 50%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 5px 15px;
+  text-align: center;
+  font-weight: bold;
+  font-size: var(--txt-regular);
+}
+
+#resultBtn {
+  margin: 10px auto 0;
+  border: 1px solid #333;
+  border-radius: 2px;
+  background-color: #d1ffcb;
+}
+
+.san {
+  color: red;
+}
+
+.sat {
+  color: blue;
+}
+
+.prev,
+.next {
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+.prev:hover,
+.next:hover {
+  opacity: 0.7;
+}
+
+/* ************************* */
+/* weather result */
+/* ************************* */
+
+#weatherResult {
+  position: relative;
+  margin: 15px auto;
+  width: calc(200px + 12%);
+  padding: 8px 6%;
+  text-align: center;
+  border: 2px solid #888888;
+  border-bottom-right-radius: 25px;
+}
+
+#weatherResult::before {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #D3EDFB;
+  border-bottom-right-radius: 25px;
+  z-index: -1;
+}
+
+#weatherResult h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.weather-icon {
+  margin: 0 auto;
+  width: 80%;
+  aspect-ratio: 1;
+}
+
+.weather-text span {
+  display: block;
+}
+
+.weather-text span.ja {
+  font-weight: bold;
+  padding: 10px;
+}
+
+.temp-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.temp-image {
+  width: 35%;
+}
+
+.temp-text {
+  width: calc(65% - 15px);
+  text-align-last: left;
+  margin-left: 15px;
+  white-space: nowrap;
+}
+
+.min-max-temp span {
+  display: block;
+  font-size: var(--txt-xSmall);
+}
